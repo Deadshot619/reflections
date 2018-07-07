@@ -5,12 +5,17 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+> staging area is the middle area. it holds the files of most recent 		commit. changes done in working directory doesnt get in staging area 	until it is added.	Helps keep track of changes
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+> by comparing it to the recent commit
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+> to make a large experimental change. make another version of game.
+
 
 How do the diagrams help you visualize the branch structure?
 
